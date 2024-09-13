@@ -65,6 +65,12 @@
 
 5. API 문서는 `/docs`에서 Swagger UI로 확인 가능합니다.
 
+## 📂 시연 영상
+
+아래 동영상을 통해 프로젝트의 주요 기능을 시연하는 내용을 확인할 수 있습니다.
+
+[![시연 영상](https://img.youtube.com/vi/yQnBEMQsY34/0.jpg)](https://www.youtube.com/watch?v=yQnBEMQsY34)
+
 ## 🤝 기여
 
 기여를 환영합니다! 이 프로젝트에 기여하려면 [기여 가이드](CONTRIBUTING.md)를 참고해 주세요.
